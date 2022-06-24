@@ -1,4 +1,11 @@
+Favorite meals
 Harina con frijoles
 Arroz con pollo
 Bistec de cerdo con con congris y yuca con mojo
 Cerdo asado en pua
+
+Favorite movies
+The lord of the rings
+Harry Potter
+A place called Nothing Hill
+>>>>>>> movies
